@@ -1,6 +1,6 @@
 # Friday project
 
-https://galinovskayaa.github.io/friday-project
+https://galinovskayaa.github.io/friday-project/
 
 ## Available Scripts
 
