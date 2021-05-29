@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Friday project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://galinovskayaa.github.io/friday-project
 
 ## Available Scripts
 
