@@ -1,0 +1,35 @@
+.tableBody {
+    padding: 5px 0;
+    border-bottom: .1rem solid #eae6e6;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.tableBody > div {
+    padding: 0 1rem;
+}
+
+.tableBody_name {
+    width: 25%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.tableBody_cardsCount {
+    width: 10%;
+}
+
+.tableBody_updated {
+    width: 10%;
+}
+
+.tableBody_user {
+    width: 25%;
+}
+
+.tableBody_buttons {
+    display: flex;
+    width: 20%;
+    gap: 2rem;
+}

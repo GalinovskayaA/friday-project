@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d389dc8f-8cef-4591-9f32-78f0762b552f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="GaliA-refactor" />
+                    <option name="lastUsedInstant" value="1621708006" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1621707924" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="GaliA-thirdWeek" />
+                    <option name="lastUsedInstant" value="1621532937" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="GaliA-secondWeek" />
+                    <option name="lastUsedInstant" value="1621532925" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="Nata-thirdWeek" />
+                    <option name="lastUsedInstant" value="1621532574" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sPBM8pCUW472yWDurbXqy7rRFA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="D:\it\Friday-project\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\it\Friday-project\src\components\Modals\ModalUpdatePack" />
+      <recent name="D:\it\Friday-project\src\components\Modals" />
+      <recent name="D:\it\Friday-project\src\components\Modals\ModalUpdate" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\it\Friday-project\src\components\Modals" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d389dc8f-8cef-4591-9f32-78f0762b552f" name="Default Changelist" comment="" />
+      <created>1620764298280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620764298280</updated>
+      <workItem from="1620764301881" duration="11000" />
+      <workItem from="1620764315850" duration="2891000" />
+      <workItem from="1620768150574" duration="603000" />
+      <workItem from="1620830782014" duration="10615000" />
+      <workItem from="1620843479388" duration="8934000" />
+      <workItem from="1620921193222" duration="15092000" />
+      <workItem from="1621004925466" duration="2757000" />
+      <workItem from="1621163308653" duration="14750000" />
+      <workItem from="1621266224920" duration="8559000" />
+      <workItem from="1621351849132" duration="9999000" />
+      <workItem from="1621438054582" duration="8844000" />
+      <workItem from="1621448647100" duration="1434000" />
+      <workItem from="1621522164699" duration="6041000" />
+      <workItem from="1621532434532" duration="2154000" />
+      <workItem from="1621537729680" duration="8001000" />
+      <workItem from="1621608457263" duration="1528000" />
+      <workItem from="1621707712835" duration="2601000" />
+      <workItem from="1621774286470" duration="6397000" />
+      <workItem from="1621878515202" duration="4029000" />
+      <workItem from="1621960050362" duration="4671000" />
+      <workItem from="1622185170254" duration="22840000" />
+      <workItem from="1622289359125" duration="10565000" />
+      <workItem from="1622300402359" duration="26000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix: minor code changes">
+      <created>1620766579701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620766579701</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix: fixed errors in the code (new password page)">
+      <created>1620836761906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620836761906</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: code optimization">
+      <created>1620844667347</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620844667347</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: consolidation of projects">
+      <created>1620845594671</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620845594671</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: consolidation of projects (second try)">
+      <created>1620847394335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620847394335</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix: refactor code">
+      <created>1620936328004</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620936328004</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor: add avatar in profile">
+      <created>1621167105206</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621167105206</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactor: add user name in table, refactor cod">
+      <created>1621178313315</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621178313315</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fead: add modal">
+      <created>1621532527614</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621532527614</updated>
+    </task>
+    <task id="LOCAL-00010" summary="merge">
+      <created>1621534406767</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1621534406767</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fead: add modalContainer in to cards">
+      <created>1621545441165</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1621545441165</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix: refactor">
+      <created>1621880489660</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1621880489660</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix: Modal's functionality changed">
+      <created>1622211069247</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622211069247</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="fix: minor code changes" />
+    <MESSAGE value="fix: fixed errors in the code (new password page)" />
+    <MESSAGE value="fix: code optimization" />
+    <MESSAGE value="feat: consolidation of projects" />
+    <MESSAGE value="feat: consolidation of projects (second try)" />
+    <MESSAGE value="fix: refactor code" />
+    <MESSAGE value="refactor: add avatar in profile" />
+    <MESSAGE value="refactor: add user name in table, refactor cod" />
+    <MESSAGE value="fead: add modal" />
+    <MESSAGE value="merge" />
+    <MESSAGE value="fead: add modalContainer in to cards" />
+    <MESSAGE value="fix: refactor" />
+    <MESSAGE value="fix: Modal's functionality changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: Modal's functionality changed" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+.mainWrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.mainWrapper > div {
+    padding: 0 1rem;
+}
+
+.question {
+    width: 25%;
+}
+
+.answer {
+    width: 25%;
+}
+
+.updated {
+    width: 10%;
+}
+
+.grade {
+    width: 10%;
+}
+
+.buttons {
+    display: flex;
+    width: 20%;
+    gap: 4rem;
+}

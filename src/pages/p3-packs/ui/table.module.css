@@ -1,0 +1,73 @@
+.errorText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 20px;
+    color: red
+}
+
+.preloader {
+    height: 90px;
+}
+
+.table {
+    border: 1px solid #f1f1f1;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    margin: 0 10px;
+    padding: .3rem;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+
+.tableHeader {
+    padding: .5rem 0;
+    border-bottom: .15rem solid #eae6e6;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    color: #999595;
+}
+
+.tableHeader > div {
+    padding: 0 1rem;
+}
+
+.tableHeader_packsName {
+    width: 25%;
+}
+
+.tableHeader_cardsCount {
+    width: 10%;
+}
+
+.tableHeader_updated {
+    width: 10%;
+}
+
+.tableHeader_user {
+    width: 25%;
+}
+
+.tableHeader_buttonAdd {
+    width: 20%;
+}
+
+.tableHeader_buttonAddCard {
+
+}
+
+button {
+    border-radius: 3px;
+    cursor: pointer;
+    border: .1rem solid #ececec;
+    font-size: 14px;
+}
+
+button:hover {
+    background: #c1c4ff;
+}
+

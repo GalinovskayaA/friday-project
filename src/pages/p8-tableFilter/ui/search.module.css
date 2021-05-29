@@ -1,0 +1,29 @@
+.searchTable {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputSearch {
+    min-width: 200px
+}
+
+.tableBlock {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    table-layout: fixed;
+    width: 80%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+}
+
+thead tr {
+    text-transform: uppercase;
+}
+
+table tr th, td {
+    border: 2px solid purple;
+}
